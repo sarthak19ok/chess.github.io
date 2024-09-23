@@ -1,0 +1,664 @@
+#menu
+{
+    background-color: #262421;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 10%;
+    font-family: sans-serif;
+}
+
+#logo
+{
+    width: 100%;
+    height: 10%;
+}
+
+#play
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: -15%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#playimg
+{
+    margin-left: -20%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#play:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#puzzl
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 15%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#puzzlimg
+{
+    margin-left: -5%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#puzzl:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#learn
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 45%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#learnimg
+{
+    margin-left: -20%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#learn:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#watch
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 75%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#watchimg
+{
+    margin-left: -15%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#watch:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#news
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 105%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#newsimg
+{
+    margin-left: -18%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#news:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#social
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 135%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#socialimg
+{
+    margin-left: -15%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#social:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#more
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: white;
+    margin-left: -30%;
+    margin-top: 165%;
+    width: 103%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 130%;
+    font-weight: 700;
+}
+
+#moreimg
+{
+    margin-left: -15%;
+    margin-top: 0%;
+    width: 20%;
+}
+
+#more:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#search
+{
+    position: absolute;
+    background-color: #4b4847;
+    color: hsla(0,0%,100%,.72);
+    border: none;
+    width: 80%;
+    height: 4%;
+    margin-left: 10%;
+    margin-top: 200%;
+    border-radius: 4px;
+}
+
+#signup
+{
+    position: absolute;
+    background-color: #5d9948;
+    color: white;
+    border: none;
+    width: 80%;
+    height: 6%;
+    margin-left: 10%;
+    margin-top: 230%;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#signup:hover
+{
+    color: white;
+    background-color: #81b64c;
+}
+
+#login
+{
+    position: absolute;
+    background-color: #4b4847;
+    color: hsla(0,0%,100%,.72);
+    border: none;
+    width: 80%;
+    height: 6%;
+    margin-left: 10%;
+    margin-top: 255%;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#login:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#english
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: hsla(0,0%,100%,.72);
+    width: 90%;
+    height: 3%;
+    margin-left: 10%;
+    margin-top: 320%;
+    cursor: pointer;
+    font-weight: 700;
+    text-align: left;
+}
+
+#english:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#support
+{
+    position: absolute;
+    background-color: #262421;
+    border: none;
+    color: hsla(0,0%,100%,.72);
+    width: 90%;
+    height: 3%;
+    margin-left: 10%;
+    margin-top: 340%;
+    cursor: pointer;
+    font-weight: 700;
+    text-align: left;
+}
+
+#support:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+
+body
+{
+    background-color: #312e2b;
+    margin-left: 13%;
+    font-family: sans-serif;
+}
+
+#board
+{
+    width: 32%;
+    position: absolute;
+    margin-left: 7.5%;
+    margin-top: 2%;
+    border-radius: 1%;
+}
+
+#body1
+{
+    color: white;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.text1
+{
+    font-size: 315%;
+    font-weight: 700;
+}
+
+.games
+{
+    color: white;
+    font-size: 100%;
+}
+
+.playing
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+#online
+{
+    border: none;
+    position: absolute;
+    background-color: #5d9948;
+    width: 24.5%;
+    height: 13%;
+    margin-left: 47.8%;
+    margin-top: 17.5%;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#online:hover
+{
+    color: white;
+    background-color: #81b64c;
+}
+
+#onlineimg
+{
+    margin-left: 4.5%;
+    margin-top: 2%;
+    width: 18%;
+}
+
+.big1
+{
+    position: absolute;
+    color: white;
+    margin-left: 5%;
+    margin-top: 3%;
+    font-weight: 750;
+    font-size: 190%;
+}
+
+.small1
+{
+    position: absolute;
+    color: white;
+    margin-left: 5%;
+    margin-top: 13.5%;
+    font-size: 95%;
+}
+
+#computer
+{
+    border: none;
+    position: absolute;
+    background-color: #4b4847;
+    color: hsla(0,0%,100%,.72);
+    width: 24.5%;
+    height: 13%;
+    margin-left: 47.8%;
+    margin-top: 26%;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#computer:hover
+{
+    color: white;
+    background-color: hsla(0,0%,100%,.08);
+}
+
+#computerimg
+{
+    margin-left: 4.5%;
+    margin-top: 2%;
+    width: 18%;
+}
+
+.big2
+{
+    position: absolute;
+    color: white;
+    margin-left: 5%;
+    margin-top: 3%;
+    font-weight: 750;
+    font-size: 190%;
+}
+
+.small2
+{
+    position: absolute;
+    color: white;
+    margin-left: 5%;
+    margin-top: 13.5%;
+    font-size: 95%;
+}
+
+#body2
+{
+    position: absolute;
+    background-color: #262421;
+    width: 70%;
+    height: 70%;
+    margin-left: 7.5%;
+    margin-top: 40%;
+    border-radius: 6px;
+}
+
+#hikaru
+{
+    position: absolute;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 26%;
+    border-radius: 6px;
+}
+
+
+.text2
+{
+    position: absolute;
+    color: #fff;
+    margin-left: 11%;
+    margin-top: 5%;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.text3
+{
+    position: absolute;
+    margin-left: 23.5%;
+    margin-top: 29%;
+    color: hsla(0,0%,100%,.72);
+    font-size: 105%;
+}
+
+.text4
+{
+    position: absolute;
+    margin-left: 26.2%;
+    margin-top: 36.5%;
+    color: hsla(0,0%,100%,.72);
+    font-size: 105%;
+}
+
+.gm
+{
+    position: absolute;
+    margin-left: 23.5%;
+    margin-top: 36.75%;
+    color: white;
+    background-color: red;
+    font-size: 80%;
+}
+
+#puzzles
+{
+    border: none;
+    position: absolute;
+    background-color: #5d9948;
+    width: 18%;
+    height: 12%;
+    margin-left: 17%;
+    margin-top: 13.5%;
+    color: white;
+    font-size: 150%;
+    font-weight: 700;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#puzzles:hover
+{
+    color: white;
+    background-color: #81b64c;
+}
+
+#puzzle
+{
+    position: absolute;
+    width: 35%;
+    margin-top: 4%;
+    margin-left: 60%;
+    border-radius: 6px;
+}
+
+#body3
+{
+    position: absolute;
+    background-color: #262421;
+    width: 70%;
+    height: 70%;
+    margin-left: 7.5%;
+    margin-top: 74%;
+    border-radius: 6px;
+}
+
+#anna
+{
+    position: absolute;
+    width: 15%;
+    margin-top: 25%;
+    margin-left: 50%;
+    border-radius: 6px;
+}
+
+.text5
+{
+    position: absolute;
+    color: white;
+    margin-top: 5%;
+    margin-left: 58%;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.text6
+{
+    position: absolute;
+    color: hsla(0,0%,100%,.72);
+    margin-top: 29%;
+    margin-left: 69%;
+    font-size: 105%;
+}
+
+.text7
+{
+    position: absolute;
+    color: hsla(0,0%,100%,.72);
+    margin-top: 36.5%;
+    margin-left: 71%;
+    font-size: 105%;
+}
+
+.im
+{
+    position: absolute;
+    margin-left: 69%;
+    margin-top: 36.75%;
+    color: white;
+    background-color: red;
+    font-size: 80%;
+}
+
+#lessons
+{
+    border: none;
+    position: absolute;
+    background-color: #5d9948;
+    width: 18%;
+    height: 12%;
+    margin-left: 64%;
+    margin-top: 13.5%;
+    color: white;
+    font-size: 150%;
+    font-weight: 700;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#lessons:hover
+{
+    color: white;
+    background-color: #81b64c;
+}
+
+#puzzzle
+{
+    position: absolute;
+    width: 35%;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 6px;
+}
+
+#body4
+{
+    position: absolute;
+    margin-left: 7.5%;
+    margin-top: 110%;
+    width: 70%;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.follow
+{
+    font-size: 200%;
+    font-weight: 700;
+}
+
+#chesstoday
+{
+    border: none;
+    position: absolute;
+    background-color: #5d9948;
+    width: 18%;
+    height: 4%;
+    margin-left: -10%;
+    color: white;
+    font-size: 150%;
+    font-weight: 700;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#chesstoday:hover
+{
+    color: white;
+    background-color: #81b64c;
+}
